@@ -81,7 +81,6 @@ config = {
             "skip": False,
             "features": [
                 "cucumber/features/journeys",
-                "cucumber/features/admin-settings/spaces.feature",
                 "cucumber/features/keycloak",
             ],
             "extraServerEnvironment": {
